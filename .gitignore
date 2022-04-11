@@ -3,3 +3,4 @@ www
 cert
 nginx
 *.sh
+.DS_*
